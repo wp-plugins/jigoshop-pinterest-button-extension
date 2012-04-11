@@ -10,6 +10,8 @@ Easily add a Pinterest Pin-it button to your Jigoshop single product pages. This
 
 == Description ==
 There is an option added to the Product Details tabs when adding a new product. The new tab is called Pinterest where there is a checkbox to either enable or disable Pinterest from appearing on a product. The Pin-it button is not automatically added to all products.
+
+Visit [61 Extensions](http://61extensions.com/ "Jigoshop Extensions") and contact us for assistance.
   
 
 == Installation ==
